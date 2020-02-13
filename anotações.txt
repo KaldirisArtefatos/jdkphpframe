@@ -1,0 +1,16 @@
+<!-- 
+body {
+background: <?php echo $cor_fundo; ?>;
+}
+
+p.texto {
+font-family: Verdana, Arial, serif;
+color: <?php echo $cor_texto; ?>;
+font-size: 12px;
+}
+
+a.especial {
+text-decoration: none;
+background: white url('<?php echo $imagem_link; ?>') 0px 0px no-repeat;
+}
+ -->
