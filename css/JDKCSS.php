@@ -7,6 +7,8 @@ $cor_texto = '#003333';
 $imagem_link = '../img/link.jpg';
 $cor_barras = '#103b8b';
 
+
+
 ?>
 
 
